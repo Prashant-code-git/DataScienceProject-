@@ -4,4 +4,5 @@ setuptools
 mysql-connector-python
 pymysql
 python-dotenv
+seaborn
 scikit-learn
